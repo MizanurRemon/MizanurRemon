@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Mizanur Rahman
 ## Android Developer
-Self-motivated, honest, confident and hardworking person. Passionate to be a software engineer. As a part of my desire, want to use my technical skill and abilities in the best possible way for achieving company's goal and gather experience along with knowledge.
+Self-motivated, honest, confident and hardworking person. As a part of my desire, want to use my technical skill and abilities in the best possible way for achieving company's goal and gather experience along with knowledge.
 
 ### Skills
 <!--* Java 
