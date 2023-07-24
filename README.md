@@ -36,7 +36,7 @@ Self-motivated, honest, confident and hardworking person. As a part of my desire
  <img src="https://img.shields.io/badge/Kotlin-4E0F6A?style=for-the-badge&logo=kotlin&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/ANDROID-Studio-blue?style=for-the-badge&logo=android&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Spring-154F0C?style=for-the-badge&logo=spring&logoColor=white" height="25">
- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="25">
+ <img src="https://img.shields.io/badge/Angular-43853D?style=for-the-badge&logo=angular&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25">
 
 <br>
