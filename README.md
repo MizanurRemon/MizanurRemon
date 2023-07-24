@@ -1,33 +1,8 @@
-<!--
-**MizanurRemon/MizanurRemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--Hi, Myself Mizanur Rahman. I am an Android App Developer. I really enjoy learning new things and take challenges. I also enjoy UI design in general.  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MizanurRemon)](https://github.com/anuraghazra/github-readme-stats)-->
-
 # Mizanur Rahman
 ## Software Engineer
 Self-motivated, honest, confident and hardworking person. As a part of my desire, want to use my technical skill and abilities in the best possible way for achieving company's goal and gather experience along with knowledge.
 
 ### Skills
-<!--* Java 
-* XML 
-* Flutter
-* Dart
-* API 
-* Rest API
-* NodeJS
-* Javascript-->
 
 <p  align="center">
 
