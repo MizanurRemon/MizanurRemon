@@ -47,8 +47,7 @@ Self-motivated, honest, confident and hardworking person. As a part of my desire
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MizanurRemon&theme=github_dark)
 
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MizanurRemon&theme=github_dark)
-](https://github-readme-stats-fast.vercel.app/api?username=MizanurRemon&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[Stats](https://github-readme-stats-fast.vercel.app/api?username=MizanurRemon&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 
