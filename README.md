@@ -49,7 +49,7 @@ Self-motivated, honest, confident and hardworking person. As a part of my desire
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MizanurRemon&theme=github_dark)
 
-![Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MizanurRemon&theme=github_dark)
+![Commit Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MizanurRemon&theme=github_dark)
 
 
 
